@@ -11,8 +11,12 @@ $ uv venv --python 3.12.9
 $ .venv\Scripts\activate.bat
 $ python -m ensurepip --upgrade
 $ python -m pip install -U pip
-$ pip install ipykernel numpy matplotlib scikit-learn
-
+$ pip install ipykernel # for Python Notebook
+$ pip install numpy matplotlib scikit-learn
 ```
 
-# Simple Perceptron 1957
+# Chrono steps
+
+* Simple Perceptron 1957 - perceptron_simple.ipynb
+* Elyza 1966 - elyza.py
+
