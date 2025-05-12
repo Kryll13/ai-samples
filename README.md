@@ -19,4 +19,4 @@ $ pip install numpy matplotlib scikit-learn
 
 * Simple Perceptron 1957 - perceptron_simple.ipynb
 * Elyza 1966 - elyza.py
-
+* Deep Learning 1986 - deep_learning.ipynb
