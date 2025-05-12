@@ -4,7 +4,7 @@ Python notebooks and script files that illustrate AI through years
 
 # Environment (Windows)
 
-UV et VS Code installés
+I assume you have UV and VS Code installed.
 
 ```bash
 $ uv venv --python 3.12.9
