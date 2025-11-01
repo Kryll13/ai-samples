@@ -4,15 +4,11 @@ Python notebooks and script files that illustrate AI through years
 
 # Environment (Windows)
 
-I assume you have UV and VS Code installed.
+I assume you have UV from Astral and Microsoft VS Code.
+Go in the project directory and synchronize with UV manager.
 
 ```bash
-$ uv venv --python 3.12.9
-$ .venv\Scripts\activate.bat
-$ python -m ensurepip --upgrade
-$ python -m pip install -U pip
-$ pip install ipykernel # for Python Notebook
-$ pip install numpy matplotlib scikit-learn
+$ uv sync
 ```
 
 # Chrono steps
